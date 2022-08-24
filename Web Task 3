@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web task 3</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+</head>
+<body class="light-grey">
+
+<!-- Page Container -->
+<div class="content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="row-padding">
+  
+    <!-- Left Column -->
+    <div class="third">
+    
+      <div class="white text-grey card-4">
+        <div class="display-container">
+          <img src="C:\Users\DELL PC\Downloads\girl.jpg" style="width:30%" alt="Avatar">
+          <div class="display-bottomleft container text-black">
+            <h2>Shrestha Agarwal</h2>
+          </div>
+        </div>
+        <div class="container">
+          <p><i class="fa fa-briefcase fa-fw margin-right large text-teal"></i>Developer</p>
+          <p><i class="fa fa-home fa-fw margin-right large text-teal"></i>UP, India</p>
+          <p><i class="fa fa-envelope fa-fw margin-right large text-teal"></i>2003011056@ipec.org.in</p>
+          <p><i class="fa fa-phone fa-fw margin-right large text-teal"></i>8348326530</p>
+          <hr>
+
+          <p class="large"><b><i class="fa fa-asterisk fa-fw margin-right text-teal"></i>Skills</b></p>
+          <p>Adobe Photoshop</p>
+          <div class="light-grey round-xlarge small">
+            <div class="container center round-xlarge teal" style="width:90%">80%</div>
+          </div>
+          <p>C</p>
+          <div class="light-grey round-xlarge small">
+            <div class="container center round-xlarge teal" style="width:80%">
+              <div class="center text-white">80%</div>
+            </div>
+          </div>
+          <p>Python</p>
+          <div class="light-grey round-xlarge small">
+            <div class="container center round-xlarge teal" style="width:75%">75%</div>
+          </div>
+          <p>Android development</p>
+          <div class="light-grey round-xlarge small">
+            <div class="container center round-xlarge teal" style="width:70%">50%</div>
+          </div>
+          <br>
+
+          <p class="large text-theme"><b><i class="fa fa-globe fa-fw margin-right text-teal"></i>Languages</b></p>
+          <p>Hindi</p>
+          <div class="light-grey round-xlarge">
+            <div class="round-xlarge teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>English</p>
+          <div class="light-grey round-xlarge">
+            <div class="round-xlarge teal" style="height:24px;width:55%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="twothird">
+    
+      <div class="container card white margin-bottom">
+        <h2 class="text-grey padding-16"><i class="fa fa-suitcase fa-fw margin-right xxlarge text-teal"></i>Work Experience</h2>
+        <div class="container">
+          <p>Till date no experience.</p>
+          <hr>
+        </div>
+      </div>
+
+      <div class="container card white">
+        <h2 class="text-grey padding-16"><i class="fa fa-certificate fa-fw margin-right xxlarge text-teal"></i>Education</h2>
+        <div class="container">
+          <h5 class="opacity"></h5>
+          <hr>
+        </div>
+        <div class="container">
+          <h5 class="opacity"><b>ST. Thomas School</b></h5>
+          <h6 class="text-teal"><i class="fa fa-calendar fa-fw margin-right"></i>2017-2018</h6>
+          <p>Senior Secondary school</p>
+          <hr>
+        </div>
+        <div class="container">
+          <h5 class="opacity"><b>Modern School</b></h5>
+          <h6 class="text-teal"><i class="fa fa-calendar fa-fw margin-right"></i>2018-2020</h6>
+          <p>Higher Secondary School</p>
+          <hr>
+        </div>
+        <div class="container">
+          <h5 class="opacity"><b>Inderprastha engineering college</b></h5>
+          <h6 class="text-teal"><i class="fa fa-calendar fa-fw margin-right"></i>2020 - 2024</h6>
+          <p>Bachelor Degree</p><br>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+</body>
+</html>
